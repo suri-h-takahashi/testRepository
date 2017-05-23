@@ -2,7 +2,7 @@ package coverage;
 
 public class Foo {
 	public String methodB(String stringValue) {
-		return " AAAAAAAAFoo.methodB call with " + stringValue;
+		return " AAAAAAAAAFoo.methodB call with " + stringValue;
 	}
 
 	public String methodC(int intValue) {
