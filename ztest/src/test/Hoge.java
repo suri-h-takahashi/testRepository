@@ -3,7 +3,7 @@ package test;
 public class Hoge {
 
 	private String sayPiyo(){
-		return "PIYO";
+		return "PIYOPIYO";
 	}
 
 	private boolean isSameString(String h, String b){
