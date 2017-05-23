@@ -13,7 +13,7 @@ public class Test {
 		System.out.println(r);
 
 		List<Object> a = new ArrayList<Object>();
-		a.add("豊島");
+		a.add("豊島だよ");
 		a.add("島");
 		boolean b = (Boolean)TestHelper.invokePrivate(h, "isSameString",a );
 		System.out.println(b);
